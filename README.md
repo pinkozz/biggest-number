@@ -1,2 +1,2 @@
 # Biggest-number
-This is a program that will return the biggest number from text file
+This is a program that returns the biggest number from text file
