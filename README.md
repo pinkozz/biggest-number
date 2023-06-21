@@ -2,15 +2,15 @@
 This is a program that returns the biggest number of a text file
 
 # Table of contents
-• [Features](https://github.com/pinkozz/biggest-number/edit/main/README.md#features)
+• [Features](https://github.com/pinkozz/biggest-number#features)
 
-• [Installation](https://github.com/pinkozz/biggest-number/edit/main/README.md#installation)
+• [Installation](https://github.com/pinkozz/biggest-number#installation)
 
-• [Usage](https://github.com/pinkozz/biggest-number/edit/main/README.md#usage)
+• [Usage](https://github.com/pinkozz/biggest-number#usage)
 
-• [Contributing](https://github.com/pinkozz/biggest-number/edit/main/README.md#contributing)
+• [Contributing](https://github.com/pinkozz/biggest-number#contributing)
 
-• [License](https://github.com/pinkozz/biggest-number/edit/main/README.md#license)
+• [License](https://github.com/pinkozz/biggest-number#license)
 
 # Features
 • Easy-to-use and extendable program
