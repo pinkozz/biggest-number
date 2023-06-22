@@ -41,7 +41,7 @@ This is a program that returns the biggest number of a text file
    ```
 
 # Usage
-Once the program is up and running, users can interact with it through termina;. The program will return the biggest number from given file
+Once the program is up and running, users can interact with it through terminal. The program will return the biggest number from given file
 
 # Contributing
 Contributions to the biggest-number are welcome! If you'd like to contribute, please follow these steps:
@@ -56,6 +56,6 @@ Contributions to the biggest-number are welcome! If you'd like to contribute, pl
 Please ensure that your contributions align with the project's coding style, guidelines, and licensing.
 
 # License
-The Lifecell Tariff Bot is open-source software released under the MIT License.
+The biggest-number is open-source software released under the MIT License.
 
 Feel free to customize this guide page based on your specific bot implementation and project requirements.
