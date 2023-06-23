@@ -20,23 +20,23 @@ This is a program that returns the biggest number of a text file
 # Installation
 1. Clone this repository to your local machine using this command:
    
-   ```
+   ```shell
    git clone https://github.com/pinkozz/biggest-number
    ```
 2. Navigate to project folder:
    
-   ```
+   ```shell
    cd biggest-number
    ```
 3. Once you have installed the program open the file_max_number.py file and change test.txt to your own .txt file:
    
-   ```
+   ```shell
    with open('test.txt') as pi:
    ```
 
 4. Run the program:
 
-   ```
+   ```shell
    python file_max_number.py
    ```
 
